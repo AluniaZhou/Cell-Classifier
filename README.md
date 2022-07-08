@@ -7,7 +7,7 @@ Features on the morphology of cellular images are extracted and stored in a `csv
 
 ## Code
 
-See [notebook](Cell Classifier-2.ipynb) for specific details.
+See [notebook](CellClassifier.ipynb) for specific details.
 
 Packages required can be installed in a conda enviroment provided anaconda installed:
 
